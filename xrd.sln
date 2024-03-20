@@ -1,0 +1,51 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34607.119
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "xrd", "xrd\xrd.vcxproj", "{B03930B0-5BA1-4086-8D74-4348094F1086}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|ARM = Debug|ARM
+		Debug|ARM64 = Debug|ARM64
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|ARM = Release|ARM
+		Release|ARM64 = Release|ARM64
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B03930B0-5BA1-4086-8D74-4348094F1086}.Debug|ARM.ActiveCfg = Debug|ARM
+		{B03930B0-5BA1-4086-8D74-4348094F1086}.Debug|ARM.Build.0 = Debug|ARM
+		{B03930B0-5BA1-4086-8D74-4348094F1086}.Debug|ARM.Deploy.0 = Debug|ARM
+		{B03930B0-5BA1-4086-8D74-4348094F1086}.Debug|ARM64.ActiveCfg = Debug|ARM64
+		{B03930B0-5BA1-4086-8D74-4348094F1086}.Debug|ARM64.Build.0 = Debug|ARM64
+		{B03930B0-5BA1-4086-8D74-4348094F1086}.Debug|ARM64.Deploy.0 = Debug|ARM64
+		{B03930B0-5BA1-4086-8D74-4348094F1086}.Debug|x64.ActiveCfg = Debug|x64
+		{B03930B0-5BA1-4086-8D74-4348094F1086}.Debug|x64.Build.0 = Debug|x64
+		{B03930B0-5BA1-4086-8D74-4348094F1086}.Debug|x64.Deploy.0 = Debug|x64
+		{B03930B0-5BA1-4086-8D74-4348094F1086}.Debug|x86.ActiveCfg = Debug|x86
+		{B03930B0-5BA1-4086-8D74-4348094F1086}.Debug|x86.Build.0 = Debug|x86
+		{B03930B0-5BA1-4086-8D74-4348094F1086}.Debug|x86.Deploy.0 = Debug|x86
+		{B03930B0-5BA1-4086-8D74-4348094F1086}.Release|ARM.ActiveCfg = Release|ARM
+		{B03930B0-5BA1-4086-8D74-4348094F1086}.Release|ARM.Build.0 = Release|ARM
+		{B03930B0-5BA1-4086-8D74-4348094F1086}.Release|ARM.Deploy.0 = Release|ARM
+		{B03930B0-5BA1-4086-8D74-4348094F1086}.Release|ARM64.ActiveCfg = Release|ARM64
+		{B03930B0-5BA1-4086-8D74-4348094F1086}.Release|ARM64.Build.0 = Release|ARM64
+		{B03930B0-5BA1-4086-8D74-4348094F1086}.Release|ARM64.Deploy.0 = Release|ARM64
+		{B03930B0-5BA1-4086-8D74-4348094F1086}.Release|x64.ActiveCfg = Release|x64
+		{B03930B0-5BA1-4086-8D74-4348094F1086}.Release|x64.Build.0 = Release|x64
+		{B03930B0-5BA1-4086-8D74-4348094F1086}.Release|x64.Deploy.0 = Release|x64
+		{B03930B0-5BA1-4086-8D74-4348094F1086}.Release|x86.ActiveCfg = Release|x86
+		{B03930B0-5BA1-4086-8D74-4348094F1086}.Release|x86.Build.0 = Release|x86
+		{B03930B0-5BA1-4086-8D74-4348094F1086}.Release|x86.Deploy.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5C01C9B8-DC74-4A7A-B5A4-A68DDC17E25D}
+	EndGlobalSection
+EndGlobal
